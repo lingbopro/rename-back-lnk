@@ -1,0 +1,17 @@
+{
+  "name": "rename-back-lnk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "lingbopro",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "windows-shortcuts": "^0.1.6"
+  }
+}

@@ -1,0 +1,50 @@
+{
+    "rules": [
+        {
+            "path": "C:\\Users\\seewo\\Desktop",
+            "matches": [
+                {
+                    "type": "target",
+                    "value": "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe",
+                    "full": false,
+                    "rename": "Firefox"
+                },
+                {
+                    "type": "target",
+                    "value": "C:\\Windows\\Installer\\{90160000-0012-0000-1000-0000000FF1CE}\\xlicons.exe",
+                    "full": false,
+                    "rename": "Excel 2016"
+                },
+                {
+                    "type": "target",
+                    "value": "C:\\Windows\\Installer\\{90160000-0012-0000-1000-0000000FF1CE}\\wordicon.exe",
+                    "full": false,
+                    "rename": "Word 2016"
+                },
+                {
+                    "type": "target",
+                    "value": "C:\\Windows\\Installer\\{90160000-0012-0000-1000-0000000FF1CE}\\pptico.exe",
+                    "full": false,
+                    "rename": "PowerPoint 2016"
+                }
+            ]
+        },
+        {
+            "path": "C:\\Users\\Public\\Desktop",
+            "matches": [
+                {
+                    "type": "target",
+                    "value": "C:\\Program Files (x86)\\Tencent\\WeMeet\\wemeetapp.exe",
+                    "full": false,
+                    "rename": "腾讯会议"
+                },
+                {
+                    "type": "target",
+                    "value": "C:\\Program Files (x86)\\ClassIn\\ClassIn.exe",
+                    "full": false,
+                    "rename": "ClassIn"
+                }
+            ]
+        }
+    ]
+}
